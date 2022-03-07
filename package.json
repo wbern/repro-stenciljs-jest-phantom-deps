@@ -1,0 +1,13 @@
+{
+  "name": "monosample",
+  "version": "0.0.1",
+  "description": "A sample monorepo for your projects",
+  "scripts": {},
+  "devDependencies": {},
+  "keywords": [
+    "monorepo",
+    "typescript"
+  ],
+  "author": "Angel D. Munoz",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "jest-cli": "^27.5.1",
+    "jest": "^27.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
